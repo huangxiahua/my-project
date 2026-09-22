@@ -40,4 +40,5 @@ ResourceManager 库管理外设资源，规避 A/M 双核并发访问寄存器�
 通过百度网盘分享的文件：智能家居安防系统<br/>链接:https://pan.baidu.com/s/1HCf7hdKjz8CqP1lPk48ayw?pwd=z5q3 <br/>复制这段内容打开「百度网盘APP 即可获取」
 
 OpenAMP_TTY_echo_smartHome 文件为在 Cortex M33 核上外设驱动代码
+
 .c文件为智能语音模块，基于sharpa-onnx架构
